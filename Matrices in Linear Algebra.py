@@ -1,3 +1,5 @@
+#Week 3 Assignment of the Course
+
 # GRADED FUNCTION
 import numpy as np
 
